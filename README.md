@@ -7,7 +7,7 @@
 - 🎓 Student at **Kyiv Polytechnic Institute (KPI)**  
 - 🔧 Studying **Aviation and Rocket-Space Systems Engineering**  
 - 💡 Currently working on: **Building backend apps in Java / Spring Boot**
-- 
+  
 ---
 
 ## 🧰 Tech Stack
