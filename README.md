@@ -13,7 +13,7 @@
 ## 🧰 Tech Stack
 
 **Languages:**  
-`Java` • `SQL` • `JavaScript` • `Phyton`
+`Java` • `SQL` • `JavaScript` • `Python`
 
 **Frameworks & Tools:**  
 `Spring Boot` • `Hibernate` • `Docker` • `PostgreSQL` • `JUnit` • `Express` • `Git` • `NumPy` • `Pandas` • `matplotlib`
