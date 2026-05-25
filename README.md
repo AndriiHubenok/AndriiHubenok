@@ -13,12 +13,9 @@
 ## 🧰 Tech Stack
 
 **Languages:**  
-`Java` • `SQL` • `JavaScript` • `Python`
+`Java` • `SQL` • `Python` • `Go` • `JavaScript`
 
 **Frameworks & Tools:**  
-`Spring Boot` • `Hibernate` • `Docker` • `PostgreSQL` • `JUnit` • `Express` • `Git` • `NumPy` • `Pandas` • `matplotlib`
-
-**Other Interests:**  
-`CFD Simulation` • `SolidWorks`
+`Spring Boot` • `Hibernate` • `Docker` • `PostgreSQL` • `JUnit` • `Express` • `Git`
 
 ---
