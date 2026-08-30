@@ -16,6 +16,6 @@
 `Java` • `SQL` • `Python` • `Go` • `JavaScript`
 
 **Frameworks & Tools:**  
-`Spring Boot` • `Hibernate` • `Docker` • `PostgreSQL` • `JUnit` • `Express` • `Git`
+`Spring Boot` • `Hibernate` • `Docker` • `PostgreSQL` • `JUnit` • `Express` • `Git` • `Django` • `Django Rest Framework`
 
 ---
